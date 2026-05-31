@@ -27,13 +27,23 @@ I am a student working to enter college while learning IT and cybersecurity. I w
 ### Featured project
 - `eiger-portfolio` — my main project repository with security tools and learning notes
 
+### How I Help the Community
+- I build tools that help people use stronger passwords.
+- I publish security tips that anyone can read and use.
+- I am learning by doing, and I want to share those lessons with others.
+
+### How to Follow My Work
+- star and pin `eiger-portfolio`
+- check my latest commits and projects
+- watch my repo to see new updates
+
 ### Fun flair
 ```js
 const eiger = {
   role: "Cybersecurity learner",
   mission: "Make the world safer with code",
   favorite: "Umamusume",
-  currentFocus: ["GitHub", "Python", "security tools"]
+  currentFocus: ["GitHub", "Python", "security tools", "community help"]
 };
 ```
 
