@@ -1,4 +1,4 @@
-# Hi, I’m Eiger 👋
+# Hi, I’m Eiger 
 
 **IT student | Cybersecurity learner | Building tools to make the world safer**
 
